@@ -22,3 +22,5 @@
 <https://naver.com>
 
 [네이버](https://naver.com/, "네이버로 이동")
+
+![강의 이미지](./1.png)
